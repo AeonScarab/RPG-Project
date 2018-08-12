@@ -87,6 +87,9 @@
      <Compile Include="Assets\Environment\PostProcessing\Editor\Utils\EditorResources.cs" />
      <Compile Include="Assets\Environment\PostProcessing\Editor\Utils\FxStyles.cs" />
      <Compile Include="Assets\Environment\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
+ <Reference Include="UnityEditor.StandardEvents">
+ <HintPath>E:/RPG Tutorial/Unity Project Files/RPG Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>E:/RPG Tutorial/Unity Project Files/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -95,9 +98,6 @@
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>E:/RPG Tutorial/Unity Project Files/RPG Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.StandardEvents">
- <HintPath>E:/RPG Tutorial/Unity Project Files/RPG Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
